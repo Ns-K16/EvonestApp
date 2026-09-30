@@ -44,9 +44,11 @@
       "typedRoutes": true
     },
     "extra": {
+      "router": {},
       "eas": {
-        "projectId": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d"
+        "projectId": "866e21a7-a158-4a27-9c27-31225604d7ee"
       }
-    }
+    },
+    "owner": "judgeju"
   }
 }
